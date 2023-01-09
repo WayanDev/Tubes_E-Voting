@@ -62,15 +62,14 @@ Login pemilih
 > Password : wayan123
 
 ## Tampilan Admin
+![Login](https://user-images.githubusercontent.com/113874200/211324522-7e08a59b-cc39-4b96-956e-8a51a8b4e5cb.png)
+![Dashboard](https://user-images.githubusercontent.com/113874200/211324578-ecb66f88-b6ea-4def-83f1-34854c9f0274.png)
+![Data Akun](https://user-images.githubusercontent.com/113874200/211324603-ed372203-b472-484e-87ff-2fe52c69ce9b.png)
+![Data Paslon](https://user-images.githubusercontent.com/113874200/211324625-1169c51f-9440-4188-8a41-6c90e4d258ad.png)
 
-<img src="img/Login.png">
-<img src="img/Dashboard.png">
-<img src="img/Data Akun.png">
-<img src="img/Data Paslon.png">
+## Tampilan Pemilih
+![Voting](https://user-images.githubusercontent.com/113874200/211324685-b26e06de-d9f5-4d02-aa82-02de856b2a2e.png)
 
-## Tampilan Admin
-
-<img src="img/Voting.png">
 
 ## Kredit
 
