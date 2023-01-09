@@ -30,12 +30,12 @@ Fitur yang ada pada Sistem E-Voting Ketua Kelas TI-3B:
 8. Duplikat file .env.example, lalu rename menjadi .env.
 9. Kembali ke terminal, php artisan key:generate.
 10. Setting koneksi database di file .env (DB_DATABASE, DB_USERNAME, DB_PASSWORD).
-    > DB_CONNECTION=mysql
-    > DB_HOST=127.0.0.1
-    > DB_PORT=3306
-    > DB_DATABASE=pemilu
-    > DB_USERNAME=root
-    > DB_PASSWORD=
+    > DB_CONNECTION=mysql 
+    > DB_HOST=127.0.0.1 
+    > DB_PORT=3306 
+    > DB_DATABASE=pemilu 
+    > DB_USERNAME=root 
+    > DB_PASSWORD= 
 11. Setelah selesai, Jalankan perintah "php artisan serve" maka dapat diakses dengan http://localhost:8000/
 
 ## Persyaratan
