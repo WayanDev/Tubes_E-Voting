@@ -54,11 +54,13 @@ Fitur yang ada pada Sistem E-Voting Ketua Kelas TI-3B:
 Login admin
 
 > Username : Administrator
+> 
 > Password : admin
 
 Login pemilih
 
 > Username : Wayan
+> 
 > Password : wayan123
 
 ## Tampilan Admin
