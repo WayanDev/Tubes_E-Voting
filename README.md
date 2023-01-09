@@ -38,7 +38,7 @@ Fitur yang ada pada Sistem E-Voting Ketua Kelas TI-3B:
      DB_USERNAME=root 
      DB_PASSWORD= 
  ```
-11. Setelah selesai, Jalankan perintah "php artisan serve" maka dapat diakses dengan http://localhost:8000/
+11. Setelah selesai, Jalankan perintah `php artisan serve` maka dapat diakses dengan http://localhost:8000/
 
 ## Persyaratan
 
