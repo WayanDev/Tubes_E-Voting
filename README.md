@@ -20,15 +20,15 @@ Fitur yang ada pada Sistem E-Voting Ketua Kelas TI-3B:
 
 ## Langkah-Langkah
 
-1. Download Source Code dari repo Github laravote dalam bentuk Zip.
-2. Extract file zip (source code) ke dalam direktori htdocs pada XAMPP, misal htdocs/evoting-pemilihan.
-3. Melalui terminal, cd ke direktori evoting-pemilihan.
-4. (Sesuai petunjuk installasi) Pada terminal, berikan perintah composer install. Ini yang perlu koneksi internet.
+1. Download Source Code dari repo Github Tubes_E-Voting dalam bentuk Zip.
+2. Extract file zip (source code) ke dalam direktori htdocs pada XAMPP, misal htdocs/Tubes_E-Voting.
+3. Melalui terminal, cd ke direktori Tubes_E-Voting.
+4. (Sesuai petunjuk installasi) Pada terminal, berikan perintah `composer install`. Ini yang perlu koneksi internet.
 5. Composer akan menginstall dependency paket dari source code tersebut hingga selesai.
 6. Jalankan perintah php artisan, untuk menguji apakah perintah artisan Laravel bekerja.
-7. Buat database baru (kosong) pada mysql (via phpmyadmin) dengan nama pemilu. import file pemilu.sql ke database evoting
+7. Buat database baru (kosong) pada mysql (via phpmyadmin) dengan nama pemilu. Import file pemilu.sql(ada di Folder IMPORT DATABASE) ke database pemilu
 8. Duplikat file .env.example, lalu rename menjadi .env.
-9. Kembali ke terminal, php artisan key:generate.
+9. Kembali ke terminal, `php artisan key:generate`.
 10. Setting koneksi database di file .env (DB_DATABASE, DB_USERNAME, DB_PASSWORD).
  ```
      DB_CONNECTION=mysql 
